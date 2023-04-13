@@ -1,6 +1,8 @@
 # Name: Jeana Kim
 # SBUID: 115261693
-
+##################### SCORE ######################
+#######  Score:  7.5/10 --> please use variables and functions in python
+#################################################
 # Remove the ellipses (...) when writing your solutions.
 
 # ---------------------------- Exercise I ---------------------------------------
@@ -37,7 +39,7 @@ def euclidean_distance(x1, y1, x2, y2):
 #(pt^2 + pt^2)^1/2
 
 def compute_triangle_perimeter(x1, y1, x2, y2, x3, y3):
-    return ((((x1 - x2)**2)+(y1 - y2)**2)**1/2)+((((x2 -x3)**2)+(y2-y3)**2)**1/2)+((((x3-x1)**2)+(y3 - y1)**2)**1/2)
+    return ((((x1 - x2)**2)+(y1 - y2)**2)**1/2)+((((x2 -x3)**2)+(y2-y3)**2)**1/2)+((((x3-x1)**2)+(y3 - y1)**2)**1/2) # the perimeter is wrong
 
 
 # ---------------------------- Exercise III -------------------------------------
