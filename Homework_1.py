@@ -1,7 +1,7 @@
 # Name: Jeana Kim
 # SBUID: 115261693
 ##################### SCORE ######################
-#######  Score:  7.5/10 --> please use variables and functions in python
+#######  Score:  8.5/10 --> please use variables and functions in python
 #################################################
 # Remove the ellipses (...) when writing your solutions.
 
